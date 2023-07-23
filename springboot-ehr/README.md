@@ -80,11 +80,10 @@ MySQL 5.7
 
 #### 系统截图
 
-![image-20230723015653243](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230723015653243.png)
-![image-20230723015723882](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230723015723882.png)
+![image-20230723015653243](img/image-20230723015653243.png)
+![image-20230723015723882](img/image-20230723015723882.png)
 
-![image-20230723015743691](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230723015743691.png)
-
+![image-20230723015743691](img/image-20230723015743691.png)
 
 
 
