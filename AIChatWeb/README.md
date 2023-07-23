@@ -58,14 +58,14 @@ Super Admin Password is valid.
 
 #### 项目截图
 
-![image-20230722230951283](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230722230951283.png)
+![](.\img\image-20230722230828352.png)
 
-![image-20230722230828352](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230722230828352.png)
+![image-20230722230828352](.\img\image-20230722230920513.png)
 
-![image-20230722230920513](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230722230920513.png)
+![image-20230722230920513](.\img\image-20230722230951283.png)
 
-![image-20230722231323654](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230722231323654.png)
+![image-20230722231323654](.\img\image-20230722231323654.png)
 
-![image-20230722231342674](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230722231342674.png)
+![image-20230722231342674](.\img\image-20230722231342674.png)
 
 账号：aichat 密码：aichatadmin
