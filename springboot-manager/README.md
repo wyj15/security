@@ -47,9 +47,9 @@
 
 ## 系统截图
 
-![image-20230723014807504](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230723014807504.png)
+![image-20230723014807504](img/image-20230723014807504.png)
 
-![image-20230723014848071](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230723014848071.png)
+![image-20230723014848071](img/image-20230723014848071.png)
 
 ## 代码结构
 
