@@ -17,10 +17,10 @@ SpringBoot / Shiro / Vue / MySQL
 
 # 系统截图
 
-![image-20230723174658142](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230723174658142.png)
+![image-20230723174658142](img/image-20230723174658142.png)
 
-![image-20230723174518756](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230723174518756.png)
+![image-20230723174518756](img/image-20230723174518756.png)
 
-![image-20230723174616730](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230723174616730.png)
+![image-20230723174616730](img/image-20230723174616730.png)
 
-![image-20230723174728561](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230723174728561.png)
+![image-20230723174728561](img/image-20230723174728561.png)
