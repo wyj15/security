@@ -46,8 +46,8 @@
 
 ### 截图
 
-![image-20230723010759824](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230723010759824.png)
+![image-20230723010759824](img/image-20230723010759824.png)
 
-### ![image-20230723010432600](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230723010432600.png)![image-20230723010452059](C:\Users\Naomi\AppData\Roaming\Typora\typora-user-images\image-20230723010452059.png)
+### ![image-20230723010432600](img/image-20230723010432600.png)![image-20230723010452059](img/image-20230723010452059.png)
 
 用户名：admin 密码：admin1234
