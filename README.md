@@ -9,4 +9,9 @@
 
 # 另外五个访问地址：
 https://gitee.com/xiao-guanglin/security/tree/main/
+6. blog-admin：[README](AIChatWeb/README.md)
+7. blog-web：[README](gocron/README.md)
+8. bookmanager-master：[README](springboot-ehr/README.md)
+9. shiro-master：[README](springboot-manager/README.md)
+10. springboot-plus-master：[README](yf-exam-lite/README.md)
 
